@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Project specific
+experiments/
+*.pth
+*.log
+
+# Large data files (optional, uncomment if you want to exclude them)
+# data/corpus.ch
+# data/corpus.en
