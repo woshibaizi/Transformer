@@ -54,7 +54,7 @@ dev_data_path = './data/json/dev.json'
 test_data_path = './data/json/test.json'
 
 model_path = './weights/transformer_model.pth'
-test_model_path = './run/train/exp/weights/best_bleu_26.30.pth'
+test_model_path = './run/train/exp2/weights/last_bleu_67.82.pth'
 
 """
 设备配置
