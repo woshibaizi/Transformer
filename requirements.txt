@@ -3,6 +3,7 @@ sentencepiece==0.2.1
 sacrebleu==2.5.1
 numpy==1.23.3
 json5==0.9.24
+streamlit
 
 # python==3.10
 # 我尝试了40系列的显卡，这说明30系列的显卡可能也适用
